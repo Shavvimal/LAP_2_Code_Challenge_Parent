@@ -1,6 +1,6 @@
 # Welcome to the Anonymous blog site 
 
-This site was a practice clone of [https://telegra.ph/](https://telegra.ph/), using a postgres database to store posts. 
+This site was a practice clone of [telegra.ph](https://telegra.ph/), using a postgres database to store posts. 
 
 To run the repo code:
 1. Fork and clone this repo
